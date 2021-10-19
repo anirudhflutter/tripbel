@@ -1,4 +1,4 @@
-# lazzypay
+# tripbel
 
 A new Flutter project.
 
